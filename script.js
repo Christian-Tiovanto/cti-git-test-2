@@ -1,1 +1,1 @@
-console.log('ngetes aja')
+console.log("ngetes ngetes aeee")
